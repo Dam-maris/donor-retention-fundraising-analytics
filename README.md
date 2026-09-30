@@ -1,4 +1,4 @@
-# Donor-retention-fundraising-analytics
+# Donor Retention Fundraising Analytics
 Power BI project analyzing fundraising performance, donor behaviour, campaign contribution and donor engagement for a fictional wildlife conservation nonprofit.
 ## Dataset
 
