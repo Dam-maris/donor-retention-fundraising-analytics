@@ -55,6 +55,12 @@ A consolidated management view of key fundraising indicators, fundraising trends
 
 ![Management Dashboard](Report%20Pages/05.%20Management%20Dashboard.png)
 
+## Project Presentation
+
+A six-slide presentation summarizing the project, Power BI report pages, key findings and recommendations.
+
+[View the PowerPoint presentation](presentation/donor-retention-fundraising-analytics-presentation.pptx)
+
 ## Key Findings
 
 - Total donations recorded approximately **$517K** across the dataset.
