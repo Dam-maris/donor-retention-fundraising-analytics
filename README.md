@@ -29,7 +29,7 @@ A cross-check of donor email records identified one donor associated with two do
 
 Provides a high-level overview of fundraising performance, including total donations, donor participation, donation trends, donation types, donor geography and campaign contribution.
 
-![Executive Summary](report-pages/01-executive-summary.png)
+![Executive Summary](Report Pages/01. Executive Summary.png)
 
 ### 02 — Donor Insights
 
