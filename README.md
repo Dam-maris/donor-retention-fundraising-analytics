@@ -25,41 +25,35 @@ A cross-check of donor email records identified one donor associated with two do
 
 ## Report Pages
 
-### Executive Summary
+### 01 — Executive Summary
 
-Provides a high-level view of fundraising performance, including:
+Provides a high-level overview of fundraising performance, including total donations, donor participation, donation trends, donation types, donor geography and campaign contribution.
 
-- Total donations
-- Total donors
-- Donation transactions
-- Average donation
-- Monthly fundraising trends
-- Donation types
-- Top donor countries
-- Campaign contribution
+![Executive Summary](report-pages/01-executive-summary.png)
 
-### Donor Insights
+### 02 — Donor Insights
 
-Explores donor characteristics and engagement patterns across:
+Explores donor characteristics and engagement patterns across professional sectors, age groups, newsletter opt-in behaviour and donation behaviour.
 
-- Professional sectors
-- Age groups
-- Newsletter opt-in behaviour
-- Donation behaviour
+![Donor Insights](report-pages/02-donor-insights.png)
 
-### Campaign & Fundraising
+### 03 — Campaign & Fundraising
 
-Examines:
+Examines campaign contribution, donation patterns, referral channels, donation types and newsletter engagement.
 
-- Campaign contribution
-- Donation trends and patterns
-- Referral channels
-- Donation types
-- Newsletter engagement
+![Campaign & Fundraising](report-pages/03-campaign-fundraising.png)
 
-### Summary & Recommendations
+### 04 — Summary & Recommendations
 
 Brings together the main findings from the analysis and highlights areas that could support future fundraising and donor-engagement strategies.
+
+![Summary & Recommendations](report-pages/04-summary-recommendations.png)
+
+### 05 — Management Dashboard
+
+A consolidated management view of key fundraising indicators, fundraising trends, campaign contribution and donor characteristics.
+
+![Management Dashboard](report-pages/05-management-dashboard.png)
 
 ## Key Findings
 
