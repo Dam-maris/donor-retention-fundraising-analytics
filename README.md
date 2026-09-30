@@ -35,25 +35,25 @@ Provides a high-level overview of fundraising performance, including total donat
 
 Explores donor characteristics and engagement patterns across professional sectors, age groups, newsletter opt-in behaviour and donation behaviour.
 
-![Donor Insights](report-pages/02-donor-insights.png)
+![Donor Insights](Report%20Pages/01.%20Executive%20Summary.png)
 
 ### 03 — Campaign & Fundraising
 
 Examines campaign contribution, donation patterns, referral channels, donation types and newsletter engagement.
 
-![Campaign & Fundraising](report-pages/03-campaign-fundraising.png)
+![Campaign & Fundraising](Report%20Pages/01.%20Executive%20Summary.png)
 
 ### 04 — Summary & Recommendations
 
 Brings together the main findings from the analysis and highlights areas that could support future fundraising and donor-engagement strategies.
 
-![Summary & Recommendations](report-pages/04-summary-recommendations.png)
+![Summary & Recommendations](Report%20Pages/01.%20Executive%20Summary.png)
 
 ### 05 — Management Dashboard
 
 A consolidated management view of key fundraising indicators, fundraising trends, campaign contribution and donor characteristics.
 
-![Management Dashboard](report-pages/05-management-dashboard.png)
+![Management Dashboard](Report%20Pages/01.%20Executive%20Summary.png)
 
 ## Key Findings
 
