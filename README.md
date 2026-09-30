@@ -59,7 +59,7 @@ A consolidated management view of key fundraising indicators, fundraising trends
 
 A six-slide presentation summarizing the project, Power BI report pages, key findings and recommendations.
 
-[View the PowerPoint presentation](donor-retention-fundraising-analytics/presentation.pptx)
+[View the PowerPoint presentation](presentation/Donor%20Retention%20&%20Fundraising%20Analysis%20-%20live%20data.pptx)
 
 ## Key Findings
 
